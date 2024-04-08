@@ -36,7 +36,7 @@ To install the **hardhat-zksync-node** plugin and additional necessary packages,
 @tab:active yarn
 
 ```bash
-yarn add -D @matterlabs/hardhat-zksync-node hardhat ethers zksync-ethers@^6.0.0
+yarn add -D @matterlabs/hardhat-zksync-node
 ```
 
 @tab npm
@@ -187,7 +187,7 @@ We'll use provided example contract for testing with help of **hardhat-chai-matc
 @tab:active yarn
 
 ```bash
-yarn add -D @matterlabs/hardhat-zksync-deploy
+yarn add -D @matterlabs/hardhat-zksync-deploy ethers zksync-ethers
 ```
 
 @tab npm

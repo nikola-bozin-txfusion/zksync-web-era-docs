@@ -37,11 +37,11 @@ Plugin used to deploy and update upgradable smart contracts (proxies). Use the [
 
 ### hardhat-chai-matchers
 
+Adds capabilities to make your smart contract tests easy to write and read.
+
 [More information](https://www.npmjs.com/package/@nomicfoundation/hardhat-chai-matchers)
 
 ### hardhat-contract-sizer
-
-Adds capabilities to make your smart contract tests easy to write and read.
 
 [More information](https://www.npmjs.com/package/hardhat-contract-sizer)
 

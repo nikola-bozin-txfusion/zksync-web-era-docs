@@ -45,6 +45,8 @@ Import `@nomicfoundation/hardhat-chai-matchers` into the `hardhat.config.ts` fil
 import "@nomicfoundation/hardhat-chai-matchers";
 ```
 
+The `@nomicfoundation/hardhat-chai-matchers` plugin adds Ethereum specific capabilities to the [Chai](https://www.chaijs.com/) assertion library for testing smart contracts.
+
 Before running tests, a local zkSync Era node is required. If you are unfamiliar with `era_test_node` refer to the documentation [here](era-test-node/). Start `era_test_node`:
 
 ```bash
